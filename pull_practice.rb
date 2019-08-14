@@ -22,11 +22,12 @@ end
 # sets of changes together.
 
 def robot_noise
-  puts "beep boop"
+  puts "beep boblopop"
 end
 
 def train_noise
-  puts "choo choo"
+  puts "choo choawooooo"
+  puts "breaking things"
 end
 
 # Task 4: Merge Conflict
@@ -36,4 +37,5 @@ end
 def clock_noise
   puts "tock"
   puts "tick"
+  puts "breaking the changes"
 end
